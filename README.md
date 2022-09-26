@@ -10,7 +10,7 @@ Once you are ready, please send it to me (ie link to your git repository) before
 
 ---
 
-Comment by Ajob:
+**Comment by Ajob**
 
 As requested, the read and storing functions have been implemented for task categories and tasks. Since it wasn't a lot of work I also added deletion of individual entities.
 
