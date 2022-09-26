@@ -14,4 +14,4 @@ Once you are ready, please send it to me (ie link to your git repository) before
 
 As requested, the read and storing functions have been implemented for task categories and tasks. Since it wasn't a lot of work I also added deletion of individual entities.
 
-This repository could greatly benefit from some form of exception handling, for example with lombok. Fortunately spring boot already has some form of exception handling when sending output to the user, masking any sensitive information. For the scope of this assignment I thought it unwise to add unrequested features.
+This repository could greatly benefit from some form of exception handling, for example with lombok. For the scope of this assignment I thought it unwise to add unrequested features. Fortunately spring boot already has some form of exception handling when sending output to the user, masking any sensitive information.
